@@ -40,8 +40,21 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Abhishek8133-maker&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek8133-maker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
-📈 **LeetCode Stats:**  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhishek__2003?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/Abhishek__2003/)  
+# 🏆 LeetCode Stats & Achievements  
+
+<p align="center">
+  <a href="https://leetcode.com/u/Abhishek__2003/">
+    <img src="https://leetcard.jacoblin.cool/Abhishek__2003?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" width="400"/>
+  </a>
+  <a href="https://leetcode.com/u/Abhishek__2003/">
+    <img src="https://leetcode.card.workers.dev/Abhishek__2003?theme=dark&font=baloo&extension=activity" alt="LeetCode Activity" width="400"/>
+  </a>
+</p>
+
+<p align="center">
+  🔥 **600+ problems solved** | 📆 **445-day streak** | 💡 Mastering DSA daily!
+</p>
+
 
 ---
 
